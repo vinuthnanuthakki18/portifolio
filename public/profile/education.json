@@ -1,0 +1,19 @@
+{
+    "education":[
+        {
+            "title": "Jun 2016 - Sep 2020",
+            "cardTitle": "B.Tech, Computer Science",
+            "cardSubtitle":"Vasireddy Venkatadri Institute of Technology",
+            "cardDetailedText": "CGPA - 7.9",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        },
+        {
+            "title": "Apr 2016",
+            "cardTitle": "Intermediate",
+            "cardSubtitle":"Narayana Junior College",
+            "cardDetailedText": "Marks - 96%"
+        }
+    ]
+}
