@@ -10,32 +10,44 @@
                     "title": "Java"
                 },
                 {
-                    "icon": "images/skills/php.png",
-                    "title": "PHP"
+                    "icon": "images/skills/htmlcss.png",
+                    "title": "HTML/CSS"
                 },
                 {
                     "icon": "images/skills/js.png",
                     "title": "JavaScript"
                 },
                 {
-                    "icon": "images/skills/python.png",
-                    "title": "Python"
+                    "icon": "images/skills/typescript.png",
+                    "title": "TypeScript"
                 },
                 {
-                    "icon": "images/skills/mysql.png",
-                    "title": "MySQL"
+                    "icon": "images/skills/python.png",
+                    "title": "Python"
                 }
         ]},
         {
             "title": "Frameworks & Technologies",
             "items" : [
                 {
-                    "icon": "images/skills/android_new.png",
-                    "title": "Android"
-                },
-                {
                     "icon": "images/skills/react.png",
                     "title": "React"
+                },
+                {
+                    "icon": "images/skills/redux.png",
+                    "title": "Redux"
+                },
+                {
+                    "icon": "images/skills/tailwind.jpg",
+                    "title": "TailwindCSS"
+                },
+                {
+                    "icon": "images/skills/bootstrap.png",
+                    "title": "Bootstrap"
+                },
+                {
+                    "icon": "images/skills/jest.png",
+                    "title": "Jest"
                 },
                 {
                     "icon": "images/skills/nodejs.png",
@@ -47,12 +59,24 @@
             "title" : "Tools & Platforms",
             "items": [
                 {
-                    "icon": "images/skills/android-studio.png",
-                    "title": "Android Studio"
+                    "icon": "images/skills/jenkins.png",
+                    "title": "Jenkins"
                 },
                 {
-                    "icon": "images/skills/git.png",
-                    "title": "Git"
+                    "icon": "images/skills/gitlab.png",
+                    "title": "GitLab"
+                },
+                {
+                    "icon": "images/skills/sonarqube.png",
+                    "title": "Sonarqube"
+                },
+                {
+                    "icon": "images/skills/dynatrace.png",
+                    "title": "dynatrace"
+                },
+                {
+                    "icon": "images/skills/splunk.png",
+                    "title": "Splunk"
                 },
                 {
                     "icon": "images/skills/docker.png",
